@@ -1,0 +1,11 @@
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\bin\Release\inventory.exe.config
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\bin\Release\inventory.exe
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\bin\Release\inventory.pdb
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.csproj.AssemblyReference.cache
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.DashboardForm.resources
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.RegisterForm.resources
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.SignInForm.resources
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.csproj.GenerateResource.cache
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.csproj.CoreCompileInputs.cache
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.exe
+C:\Users\Tres\Downloads\loginmodule-main\loginmodule\inventory\obj\Release\inventory.pdb
